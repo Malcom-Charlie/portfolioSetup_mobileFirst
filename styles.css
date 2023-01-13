@@ -1,60 +1,68 @@
 * {
-    box-sizing: border-box;
-    font-family: 'Poppins', sans-serif;
-    font-style: normal;
+  box-sizing: border-box;
+  font-family: 'Poppins', sans-serif;
+  font-style: normal;
 }
+
 header {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    width: 330px;
-    margin: auto;
-    color: #6070ff;
-    font-family: 'Poppins';
-    font-weight: 700;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 330px;
+  margin: auto;
+  color: #6070ff;
+  font-family: 'Poppins';
+  font-weight: 700;
 }
+
 .intro {
-    display: flex;
-    flex-direction: column;
-    align-items: flex-start;
-    padding: 16px;
-    background: #fff;
-    border-radius: 16px;
-    max-width: 327px;
-    margin: auto;
-    box-sizing: content-box;
-    margin-bottom: 70px;
-    background-image: url(./images/backgroundpic.png);
-    background-repeat: no-repeat;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 16px;
+  background: #fff;
+  border-radius: 16px;
+  max-width: 327px;
+  margin: auto;
+  box-sizing: content-box;
+  margin-bottom: 70px;
+  background-image: url(./images/backgroundpic.png);
+  background-repeat: no-repeat;
 }
+
 .space {
-    height: 60px;
+  height: 60px;
 }
+
 .prymrytxt1 {
-    color: #172b4d;
-    margin: auto;
-    font-weight: 700;
-    font-size: 40px;
-    line-height: 52px;
-    width: 327px;
+  color: #172b4d;
+  margin: auto;
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 52px;
+  width: 327px;
 }
+
 .prymrytxt2 {
-    color: #344563;
-    margin: auto;
-    font-size: 16px;
-    width: 327px;
+  color: #344563;
+  margin: auto;
+  font-size: 16px;
+  width: 327px;
 }
+
 .letsconnect {
-    font-weight: 500;
-    color: #7f8cff;
-    font-size: 20px;
+  font-weight: 500;
+  color: #7f8cff;
+  font-size: 20px;
 }
+
 .socials {
-    width: 170px;
-    display: flex;
-    justify-content: space-between;
-    list-style-type: none;
+  width: 170px;
+  display: flex;
+  justify-content: space-between;
+  list-style-type: none;
 }
+
 ul {
-    padding-inline-start: 0;
+  padding-inline-start: 0;
 }
