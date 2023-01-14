@@ -130,14 +130,6 @@ ul {
   border: 2px solid #396df2;
   border-radius: 10px;
   padding: 8px 16px;
-}
-
-.prjctbtn:hover {
-  background: #396df2;
-  color: #fff;
-}
-
-.btntxt {
   font-weight: 500;
   font-size: 17px;
   color: #396df2;
@@ -145,7 +137,7 @@ ul {
   letter-spacing: 0.03em;
 }
 
-.btntxt:hover {
+.prjctbtn:hover {
   background: #396df2;
   color: #fff;
 }
