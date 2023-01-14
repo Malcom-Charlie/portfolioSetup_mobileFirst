@@ -41,9 +41,8 @@ a {
 .prymrytxt1 {
   color: #172b4d;
   margin: auto;
-  font-weight: 700;
   font-size: 40px;
-  line-height: 52px;
+  line-height: 45px;
   width: 327px;
 }
 
@@ -135,6 +134,7 @@ ul {
 
 .prjctbtn:hover {
   background: #396df2;
+  color: #fff;
 }
 
 .btntxt {
@@ -146,6 +146,7 @@ ul {
 }
 
 .btntxt:hover {
+  background: #396df2;
   color: #fff;
 }
 
