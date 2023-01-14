@@ -89,6 +89,7 @@
 - **[Navigation bar]**
 - **[Awesome Background]**
 - **[Social Media links]**
+- **[Projects page]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -143,7 +144,6 @@ To run the project, open the index.html file that appeared after cloning.
 >
 
 - [ ] **[About Me]**
-- [ ] **[Projects Page]**
 - [ ] **[Contact Form]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -175,6 +175,7 @@ Feel free to check the [issues page](../../issues/).
 
 > Much appreciation to the following entities:
 
+- Team mates: Thank you fellow Micronaunts for all the help dealing with blockers. 
 - Figma: For the elaborate website designs.
 - Adobe: For easy to use font links.
 - Microverse: For the assignments and learning opportunities.
