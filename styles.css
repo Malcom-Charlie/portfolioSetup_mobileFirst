@@ -210,7 +210,7 @@ ul {
 
 .cntct-ttl {
   display: flex;
-  font-family: 'Poppins';
+  font-family: 'Poppins', sans-serif;
   font-size: 40px;
   font-style: normal;
   line-height: 52px;
