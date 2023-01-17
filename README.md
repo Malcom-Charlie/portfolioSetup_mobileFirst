@@ -136,6 +136,12 @@ To run the project, open the index.html file that appeared after cloning.
 - Twitter: [Simple Malcom](https://twitter.com/simple_malcom)
 - LinkedIn: [Malcom Charles](https://www.linkedin.com/in/malcom-charles-49411017a/)
 
+👤  **Christopher Abraham**
+
+- GitHub: [Christopher Abraham](https://github.com/Cabraham1)
+- Twitter: [@_cabraham](https://twitter.com/_cabraham)
+- LinkedIn: [Abraham Christopher](https://www.linkedin.com/in/abrahamchristopher/)
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FUTURE FEATURES -->
