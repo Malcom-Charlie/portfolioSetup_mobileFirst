@@ -17,6 +17,7 @@ header {
 
 a {
   text-decoration: none;
+  color: #6070ff;
 }
 
 .intro {
@@ -190,14 +191,15 @@ ul {
 .contact {
   display: flex;
   flex-direction: column;
-  justify-content: space-between;
+  justify-content: space-around;
   align-items: center;
-  width: 330px;
+  width: 375px;
   margin: auto;
   background-color: #6070ff;
   font-family: 'Poppins', sans-serif;
   background-image: url(/images/bglmnt2.png);
   background-repeat: no-repeat;
+  border-top-left-radius: 100px;
 }
 
 .contact-intro {
@@ -207,40 +209,58 @@ ul {
 }
 
 .cntct-ttl {
+  display: flex;
   font-family: 'Poppins';
   font-size: 40px;
   font-style: normal;
   line-height: 52px;
   color: #ffffff;
-  border: 1px solid red;
-  margin-bottom: 0px;
+  margin: 10px;
 }
 
 .cntct-info {
   font-family: 'Poppins',sans-serif;
   font-style: normal;
-  line-height: 28px;
   text-align: center;
   width: 327px;
   color: #ebebff;
-  border: 2px solid yellow;
+  font-size: 20px;
 }
 
 .frm-inputs {
   display: flex;
   flex-direction: column;
-  justify-content: space-between;
-  border: none; 
-  width: 327px; 
-  border: 1px solid red;
+  justify-content: space-evenly;
+  width: 327px;
 }
 
 .frm-tgs {
-  padding: 10px;
-  margin: 2%;
-  /* border-radius: 5px; */
+  display: flex;
+  align-items: center;
+  padding: 12px;
+  font-size: 17px;
+  margin: 3%;
+  background: #ffffff;
+  border: 1px solid #cfd8dc;
+  border-radius: 8px;
 }
 
 .sbmt-btn {
+  background: #ffffff;
+  border: 1px solid #7f8cff;
+  border-radius: 8px;
+  width: 140px;
+  padding: 6px 12px;
+  color: #6070ff;
+  letter-spacing: 0.03em;
+  text-align: center;
+  font-size: 17px;
+  margin-left: 9px;
+  margin-bottom: 3rem;
+}
 
+.sbmt-btn:hover {
+  background: #6070ff;
+  color: #ffffff;
+  box-shadow: 0px 8px 16px rgba(64, 83, 252, 0.24);
 }
