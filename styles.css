@@ -197,7 +197,8 @@ ul {
   margin: auto;
   background-color: #6070ff;
   font-family: 'Poppins', sans-serif;
-  background-image: url(./images/backgroundpic.png);
+  background-image: url(./images/bglment.png);
+  background-position: right 0% top;
   background-repeat: no-repeat;
   border-top-left-radius: 100px;
 }
