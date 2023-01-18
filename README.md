@@ -90,6 +90,7 @@
 - **[Awesome Background]**
 - **[Social Media links]**
 - **[Projects page]**
+- **[Contact Form]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -135,6 +136,12 @@ To run the project, open the index.html file that appeared after cloning.
 - Twitter: [Simple Malcom](https://twitter.com/simple_malcom)
 - LinkedIn: [Malcom Charles](https://www.linkedin.com/in/malcom-charles-49411017a/)
 
+👤  **Christopher Abraham**
+
+- GitHub: [Christopher Abraham](https://github.com/Cabraham1)
+- Twitter: [@_cabraham](https://twitter.com/_cabraham)
+- LinkedIn: [Abraham Christopher](https://www.linkedin.com/in/abrahamchristopher/)
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FUTURE FEATURES -->
@@ -143,8 +150,7 @@ To run the project, open the index.html file that appeared after cloning.
 
 >
 
-- [ ] **[About Me]**
-- [ ] **[Contact Form]**
+- [ ] **[Desktop Version]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -173,9 +179,9 @@ Feel free to check the [issues page](../../issues/).
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
 
-> Much appreciation to the following entities:
+> Much appreciation to the following entities & Individuals:
 
-- Team mates: Thank you fellow Micronaunts for all the help dealing with blockers. 
+- Coding partner: Thank you fellow coding partner for the help dealing with blockers . 
 - Figma: For the elaborate website designs.
 - Adobe: For easy to use font links.
 - Microverse: For the assignments and learning opportunities.
