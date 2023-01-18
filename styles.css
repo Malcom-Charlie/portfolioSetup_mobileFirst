@@ -263,3 +263,11 @@ ul {
   background: #7781e2;
   color: #fff;
 }
+
+.separator {
+  background: #0d151e;
+  width: 134px;
+  height: 6px;
+  margin-bottom: 7px;
+  border-radius: 12px;
+}
